@@ -85,6 +85,7 @@ a{
 .btn a{
     color: white;
     font-family: var(--font-montserrat);
+    font-weight: 100;
 }
 .btn img {
     margin: 0 5px;
